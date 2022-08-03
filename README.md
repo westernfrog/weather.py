@@ -9,4 +9,19 @@
 - 📌 Coordinates
 - 📝 4-day weather forecast
 
+## Commands
+**Weather Bot** uses 'info' as prefix.<br>
+
+
+
+|    Arguments |                      Output                                               |
+|:------------:|:-------------------------------------------------------------------------:|
+|    `all`     | Returns each and every weather data for an area.                          |
+|    `weather` | Returns only the weather description for an area.                         |
+|    `temp`    | Returns the temperature for an area including min and max temperatures    |
+|    `humidity`| Returns only the humidity for an area.                                    |
+|    `prep`    | Returns only the precipitation data for an area.                          |
+|    `coord`   | Returns coordinates for an area.                                          |
+
+
 
