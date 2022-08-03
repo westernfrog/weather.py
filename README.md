@@ -30,7 +30,7 @@
 ### How to get started
 First of all, you need to subscribe to one of their plans. There are both free and paid plans. The plan that this bot uses is a free one, here is a <a href="https://openweathermap.org/price">link</a> for that plan.
 
-### My plan description:
+**My plan description:**
 - Hourly forecast: `unavailable` 
 - Daily forecast:`unavailable`
 - Calls per minute: `60`
