@@ -37,6 +37,7 @@ First of all, you need to subscribe to one of their plans. There are both free a
 - 3 hour forecast: `5 days`
 
 After choosing a plan get your own `API KEYS` and paste to the `weather.py` file as shown below: <br>
-<img src="" alt="an image showing where to paste API KEYS">
+<img src="api_keys.png" alt="an image showing where to paste API KEYS">
+In line number `50` and also change the units as per your needs.
 <hr>
 
