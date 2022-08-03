@@ -7,7 +7,7 @@
 - 💧 Humidity
 - 💦 Precipitation
 - 📌 Coordinates
-- 📝 5-day weather forecast `in development`
+- 📝 3-day weather forecast `in development`
 
 ## Commands
 **Weather Bot** uses 'info' as prefix.<br>
