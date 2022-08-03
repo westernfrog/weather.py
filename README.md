@@ -1,5 +1,5 @@
 # Weather Bot <img src="IMG_20220803_100434.png" alt="an image showing clouds" width=90px>  
-**Weather Bot** is a discord bot written in `Python Language` and is maintained and hosted in `Heroku`. It can give real-time information of the weather of any city. 
+**Weather Bot** is a discord bot written in `Python Language` and is maintained and hosted in `Heroku` by <a href="https://www.instagram.com/iam__amansingh/">Aman</a>. It can give real-time information of the weather of any city. 
 
 #### Services it can provide:
 - ☁️ Weather description
@@ -11,7 +11,7 @@
 
 ## Commands
 **Weather Bot** uses 'info' as prefix.<br>
-
+`info <city name> <arguments>` this is a valid command for this bot. City name should be valid and also if a city name has `two` words for example __New York__ then its valid name becomes __NewYork__ or __newyork__ i.e without spaces.
 
 
 |    Arguments |                      Output                                               |
