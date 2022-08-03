@@ -17,13 +17,13 @@
 |:------------:|:-------------------------------------------------------------------------:|
 |    `all`     | Returns each and every weather data for an area.                          |
 |    `weather` | Returns only the weather description for an area.                         |
-|    `temp`    | Returns the temperature for an area including min and max temperatures    |
+|    `temp`    | Returns the temperature for an area including min and max temperatures.    |
 |    `humidity`| Returns only the humidity for an area.                                    |
 |    `prep`    | Returns only the precipitation data for an area.                          |
 |    `coord`   | Returns coordinates for an area.                                          |
 
 ## OpenWeather API
-<a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over 200,000 cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
+<a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over `200,000` cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
 
 **Weather Bot** also uses OpenWeather api to get these weather data.  
 
@@ -41,4 +41,4 @@ After choosing a plan get your own `API KEYS` and paste to the `programs/weather
 In line number `50`, also change the units as per your needs.
 To know more go to the <a href="https://openweathermap.org/current">documentation</a> of OpenWeather API.
 <hr>
-Do give your suggestions <a href="mailto:haaamansingh007@gmail.com">here</a>, it would really help me :) 💗
+Do give your suggestions <a href="mailto:haaamansingh007@gmail.com">here</a>, it would really help me :) `💗`
