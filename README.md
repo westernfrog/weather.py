@@ -1,4 +1,4 @@
-# Weather Bot <img src="weather.png" alt="an image showing clouds" width=90px>  
+# Weather Bot <img src="images/weather.png" alt="an image showing clouds" width=90px>  
 **Weather Bot** is a discord bot written in `Python Language` and is maintained and hosted in `Heroku` by <a href="https://www.instagram.com/iam__amansingh/">Aman</a>. It can give real-time information of the weather of any city. 
 
 #### Services it can provide:
@@ -37,7 +37,7 @@ First of all, you need to subscribe to one of their plans. There are both free a
 - 3 hour forecast: `5 days`
 
 After choosing a plan get your own `API KEYS` and paste to the `programs/weather.py` file as shown below: <br>
-<img src="api_keys.png" alt="an image showing where to paste API KEYS"> <br>
+<img src="images/api_keys.png" alt="an image showing where to paste API KEYS"> <br>
 In line number `50`, also change the units as per your needs.
 To know more go to the <a href="https://openweathermap.org/current">documentation</a> of OpenWeather API.
 <hr>
