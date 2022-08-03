@@ -11,10 +11,9 @@
 
 ## Commands
 **Weather Bot** uses 'info' as prefix.<br>
-`info <city name> <arguments>` this is a valid command for this bot. City name should be valid and also if a city name has `two` words for example __New York__ then its valid name becomes __NewYork__ or __newyork__ i.e without spaces.
+`info <city name> <argument>` this is a valid command for this bot. City name should be valid and also if a city name has `two` words for example __New York__ then its valid name becomes __NewYork__ or __newyork__ i.e without spaces.
 
-
-|    Arguments |                      Output                                               |
+|    Argument |                      Output                                               |
 |:------------:|:-------------------------------------------------------------------------:|
 |    `all`     | Returns each and every weather data for an area.                          |
 |    `weather` | Returns only the weather description for an area.                         |
