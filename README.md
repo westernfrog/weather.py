@@ -7,13 +7,13 @@
 - 💧 Humidity
 - 💦 Precipitation
 - 📌 Coordinates
-- 📝 4-day weather forecast `in development`
+- 📝 5-day weather forecast `in development`
 
 ## Commands
 **Weather Bot** uses 'info' as prefix.<br>
 `info <city name> <argument>` this is a valid command for this bot. City name should be valid and also if a city name has `two` words for example __New York__ then its valid name becomes __NewYork__ or __newyork__ i.e without spaces.
 
-|    Argument |                      Output                                               |
+|    Argument |                      Output                                                |
 |:------------:|:-------------------------------------------------------------------------:|
 |    `all`     | Returns each and every weather data for an area.                          |
 |    `weather` | Returns only the weather description for an area.                         |
@@ -36,5 +36,7 @@ First of all, you need to subscribe to one of their plans. There are both free a
 - Calls per minute: `60`
 - 3 hour forecast: `5 days`
 
-After choosing a plan get your own `API KEYS` and paste to the `weather.py` file where 
+After choosing a plan get your own `API KEYS` and paste to the `weather.py` file as shown below: <br>
+<img src="" alt="an image showing where to paste API KEYS">
+<hr>
 
