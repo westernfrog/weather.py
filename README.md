@@ -22,5 +22,19 @@
 |    `prep`    | Returns only the precipitation data for an area.                          |
 |    `coord`   | Returns coordinates for an area.                                          |
 
+## OpenWeather API
+<a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over 200,000 cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
 
+**Weather Bot** also uses OpenWeather api to get these weather data.  
+
+### How to get started
+First of all, you need to subscribe to one of their plans. There are both free and paid plans. The plan that this bot uses is a free one, here is a <a href="https://openweathermap.org/price">link</a> for that plan.
+
+**My plan description:**
+- Hourly forecast: `unavailable` 
+- Daily forecast:`unavailable`
+- Calls per minute: `60`
+- 3 hour forecast: `5 days`
+
+After choosing a plan get your own `API KEYS` and paste to the `weather.py` file where 
 
