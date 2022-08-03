@@ -1,2 +1,4 @@
-# weather.py <img src="https://cdn-icons-png.flaticon.com/512/2675/2675848.png" alt="an images showing clouds" width=200px>   <img src="https://cdn-icons-png.flaticon.com/512/414/414927.png" alt="an images showing clouds" width=200px>  <img src="https://cdn-icons.flaticon.com/png/512/1888/premium/1888282.png?token=exp=1659501193~hmac=ff12c2da83dd6d5fe61237538c3801a3" alt="an images showing clouds" width=200px> <img src="https://cdn-icons-png.flaticon.com/512/2675/2675848.png" alt="an images showing clouds" width=200px>
+# weather.py  <img src="weather.png" alt="an image showing clouds" width=300px>
+
+
 A discord bot that will give information about the current weather!
