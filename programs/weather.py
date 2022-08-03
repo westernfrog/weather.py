@@ -51,11 +51,11 @@ class weather(commands.Cog):
             async with cs.get(
                     "https://api.openweathermap.org/data/2.5/weather?q=" +
                     city +
-                    "&units=metric&appid=<your api id>"
+                    "&units=<metric or imperial>&appid=<your api id>"
             ) as r:
                 data = await r.json()
                 timezone = datetime.datetime.now(
-                    tz=pytz.timezone('Asia/Kolkata'))
+                    tz=pytz.timezone('<your preferred timezone'))
                 date = timezone.strftime('%d %B, %A')
                 time = timezone.strftime('%I:%M %p')
 
@@ -95,7 +95,7 @@ class weather(commands.Cog):
                 else:
                     emoji = '🍃'
 
-            #for temperatures
+                #for temperatures
                 if temp <= 5:
                     emoji_temp = '🥶'
 
