@@ -39,5 +39,6 @@ First of all, you need to subscribe to one of their plans. There are both free a
 After choosing a plan get your own `API KEYS` and paste to the `weather.py` file as shown below: <br>
 <img src="api_keys.png" alt="an image showing where to paste API KEYS"> <br>
 In line number `50`, also change the units as per your needs.
+To know more go to the <a href="https://openweathermap.org/current">documentation</a> of OpenWeather API.
 <hr>
 Do give your suggestions <a href="mailto:haaamansingh007@gmail.com">here</a>, it would really help me :) 💗
