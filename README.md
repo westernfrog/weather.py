@@ -10,7 +10,7 @@
 - 📝 3-day weather forecast `in development`
 
 ## Commands
-**Weather Bot** uses 'info' as prefix.<br>
+**Weather Bot** uses `info` as prefix.<br>
 `info <city name> <argument>` this is a valid command for this bot. City name should be valid and also if a city name has `two` words for example __New York__ then its valid name becomes __NewYork__ or __newyork__ i.e without spaces.
 
 |    Argument |                      Output                                                |
