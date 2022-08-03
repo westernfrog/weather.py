@@ -23,7 +23,7 @@
 |    `coord`   | Returns coordinates for an area.                                          |
 
 ## OpenWeather API
-<a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over `200,000` cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
+<a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over 200,000 cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
 
 **Weather Bot** also uses OpenWeather api to get these weather data.  
 
