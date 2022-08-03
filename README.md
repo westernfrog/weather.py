@@ -40,6 +40,4 @@ After choosing a plan get your own `API KEYS` and paste to the `weather.py` file
 <img src="api_keys.png" alt="an image showing where to paste API KEYS"> <br>
 In line number `50`, also change the units as per your needs.
 <hr>
-Do give your suggestions <a href="mailto:haaamansingh007@gmail.com">here</a>, it would really help me :) <br>
-Made with 💗 by <a href="https://www.instagram.com/iam__amansingh/">Aman Singh</a>
-
+Do give your suggestions <a href="mailto:haaamansingh007@gmail.com">here</a>, it would really help me :) 💗
