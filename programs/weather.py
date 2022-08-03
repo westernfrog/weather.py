@@ -36,12 +36,8 @@ class weather(commands.Cog):
                 pass
 
         else:
-            print('Ignoring exception in command {}:'.format(ctx.command),
-                  file=sys.stderr)
-            traceback.print_exception(type(error),
-                                      error,
-                                      error.__traceback__,
-                                      file=sys.stderr)
+            print('Ignoring exception in command {}:'.format(ctx.command))
+                  
 
     @commands.command()
     async def info(self, ctx, arg1, arg2):
