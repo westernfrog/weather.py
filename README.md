@@ -7,7 +7,7 @@
 - 💧 Humidity
 - 💦 Precipitation
 - 📌 Coordinates
-- 📝 3-day weather forecast `in development`
+- 📝 3-day weather forecast
 
 ## Commands
 **Weather Bot** uses `info` as prefix.<br>
@@ -21,6 +21,8 @@
 |    `humidity`| Returns only the humidity for an area.                                    |
 |    `prep`    | Returns only the precipitation data for an area.                          |
 |    `coord`   | Returns coordinates for an area.                                          |
+|    `tomorrow`| Returns weather for the next day for an area.                                          |
+|    `dat`     | Returns weather for the next * next day (day after tomorrow) for an area.                                          |
 
 ## OpenWeather API
 <a href="https://openweathermap.org/api">OpenWeather</a> offers access to current weather data for any location on Earth including over 200,000 cities! They collect and process weather data from different sources such as global and local weather models, satellites, radars and a vast network of weather stations. Data is available in `JSON`, `XML`, or `HTML` format.
